@@ -3,7 +3,7 @@
 
 ## :love_you_gesture: Sobre
 
-- Repositório para o curso de iniciação em Golang da :octocat: [Women Who Go Curitiba](https://github.com/womenwhogocwb)
+- Repositório de estudo em Javascript
 
 
 <h3>Lets <strong>Go!!!</strong></h3>
@@ -12,9 +12,9 @@
 ## :heavy_check_mark: Features
 
 - [x] Semana #01 
-- [] Semana #02
-- [] Semana #03
-- [] Semana #04
+- [ ] Semana #02
+- [ ] Semana #03
+- [ ] Semana #04
 
 ## :woman_technologist: Semana #01
 
