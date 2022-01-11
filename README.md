@@ -14,6 +14,7 @@
 
 ## Pré-requisitos:
 - Editor de código (vs code, atom...)
+- Tentar participar dos encontros online aos sábados
 
 ## :heavy_check_mark: Features
 
