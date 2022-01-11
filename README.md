@@ -38,3 +38,14 @@ Estudar os 3 primeiros capítulos do livro:
 E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
+
+<h5>>Material de apoio:</h5>
+
+1. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-JavascritI#loops):<br>
+
+- Funções 
+- Estrutura de dados, pra quê?
+- Iteração/Repetição/Loops
+
+2. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-LogicaComJS)<br>
+
