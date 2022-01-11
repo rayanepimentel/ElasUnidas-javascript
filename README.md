@@ -51,7 +51,9 @@ Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou teleg
 2. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-LogicaComJS)
 - Tudo
 
+
 <h3> Exercício extra </h3>
-[URI](https://www.beecrowd.com.br/judge/pt/problems/index/1)
+
+1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 - 1001, 1002, 1003, 1004, 1005
 
