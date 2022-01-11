@@ -1,6 +1,9 @@
 # ElasUnidas-javascript
 
-![](elas.jpg)
+<p align="center">
+  <img src="elas.jpg" width="600px">
+</p>
+
 
 ## :love_you_gesture: Sobre
 
