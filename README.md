@@ -1,4 +1,4 @@
-# ElasUnidas-javascript
+# ElasUnidas: javascript 
 
 <p align="center">
   <img src="elas.jpg" width="600px">
