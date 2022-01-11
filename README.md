@@ -38,7 +38,7 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 <p>Encontro 08/01/2022</p>
 
-<h4>Material:</h4>
+<h3>Material:</h3>
 
 Vamos utilizar 02 como base.
 
@@ -54,6 +54,7 @@ Estudar os 3 primeiros capítulos do livro:
 E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
+
 
 <h3>Material de apoio:</h3>
 
