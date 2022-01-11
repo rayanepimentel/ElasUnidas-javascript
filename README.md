@@ -1,5 +1,5 @@
 # ElasUnidas-javascript
-
+Grupo de estudo feito por mulheres para mulheres 
 
 ## :love_you_gesture: Sobre
 
@@ -39,13 +39,18 @@ E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
 
-<h5>>Material de apoio:</h5>
+<h3>Material de apoio:</h3>
 
-1. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-JavascritI#loops):<br>
+1. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-JavascritI#loops):
 
 - Funções 
 - Estrutura de dados, pra quê?
 - Iteração/Repetição/Loops
 
-2. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-LogicaComJS)<br>
+2. [Reprograma](https://github.com/reprograma/On13-TodasEmTech-LogicaComJS)
+- Tudo
+
+<h3> Exercício extra </h3>
+[URI](https://www.beecrowd.com.br/judge/pt/problems/index/1)
+- 1001, 1002, 1003, 1004, 1005
 
