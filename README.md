@@ -7,16 +7,25 @@
 
 ## :love_you_gesture: Sobre
 
-- Repositório de estudo em Javascript
+Repositório de estudo em Javascript <br>
+Nessa primeira parte vamos estudar com base no livro <strong>Eloquente Javascript - Parte 1: Linguagem</strong><br>
+Esse é o nosso projeto de estudo remoto piloto.
 
+#### :dancers: Participantes:
+<table>
+  <tr>
+	  <td align="center"><a href="https://www.linkedin.com/in/rayanepimentel/"><b>Rayane Pimentel</a></td> 	
+  </tr>
+</table>
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
 ## Pré-requisitos:
 - Editor de código (vs code, atom...)
 - Tentar participar dos encontros online aos sábados
+- Realizar a leitura e o exercício da semana
 
-## :heavy_check_mark: Features
+## :heavy_check_mark: Features - Parte 1: Linguagem
 
 - [x] Semana #01 
 - [ ] Semana #02
@@ -29,7 +38,9 @@
 
 <p>Encontro 08/01/2022</p>
 
-***** Material utilizado *****
+<h4>Material:</h4>
+
+Vamos utilizar 02 como base.
 
 - URI - https://www.beecrowd.com.br/judge/pt/
 
