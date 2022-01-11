@@ -1,5 +1,6 @@
 # ElasUnidas-javascript
-Grupo de estudo feito por mulheres para mulheres 
+
+![](elas.jpg)
 
 ## :love_you_gesture: Sobre
 
