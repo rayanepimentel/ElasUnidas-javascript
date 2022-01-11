@@ -8,6 +8,8 @@
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
+## Pré-requisitos:
+- Editor de código (vs code, atom...)
 
 ## :heavy_check_mark: Features
 
