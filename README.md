@@ -1,18 +1,31 @@
-# ElasUnidas-javascript
+# ElasUnidas: javascript 
 
-![](elas.jpg)
+<p align="center">
+  <img src="elas.jpg" width="600px">
+</p>
+
 
 ## :love_you_gesture: Sobre
 
-- Repositório de estudo em Javascript
+Repositório de estudo em Javascript <br>
+Nessa primeira parte vamos estudar com base no livro <strong>Eloquente Javascript - Parte 1: Linguagem</strong><br>
+Esse é o nosso projeto de estudo remoto piloto.
 
+#### :dancers: Participantes:
+<table>
+  <tr>
+	  <td align="center"><a href="https://www.linkedin.com/in/rayanepimentel/"><b>Rayane Pimentel</a></td> 	
+  </tr>
+</table>
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
 ## Pré-requisitos:
 - Editor de código (vs code, atom...)
+- Tentar participar dos encontros online aos sábados
+- Realizar a leitura e o exercício da semana
 
-## :heavy_check_mark: Features
+## :heavy_check_mark: Features - Parte 1: Linguagem
 
 - [x] Semana #01 
 - [x] Semana #02
@@ -30,6 +43,17 @@
 
 <p>Encontro 08/01/2022</p>
 
+<<<<<<< HEAD
+=======
+<h3>Material:</h3>
+
+Vamos utilizar 02 como base.
+
+- URI - https://www.beecrowd.com.br/judge/pt/
+
+- Livro - https://github.com/braziljs/eloquente-javascript
+
+>>>>>>> 4585400e226531bc78e12f6178cf41af2fd0e686
 Estudar os 3 primeiros capítulos do livro:
 1. Valores, Tipos e Operadores  
 2. Estrutura do Programa
@@ -39,6 +63,7 @@ E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
 
+<<<<<<< HEAD
 ## :woman_technologist: Semana #02
 
 ### :desktop_computer: Resumo do encontro:
@@ -50,6 +75,8 @@ Estudar o capítulo 3. do livro:
 3. Funções
 
 Trazer as dúvidas para o próximo encontro 22/01/2022
+=======
+>>>>>>> 4585400e226531bc78e12f6178cf41af2fd0e686
 
 <h3>Material de apoio:</h3>
 
