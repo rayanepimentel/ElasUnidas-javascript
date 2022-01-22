@@ -106,7 +106,7 @@ Trazer as dúvidas para o próximo encontro <strong>22/01/2022</strong>
 
 ### :desktop_computer: Resumo do encontro:
 
-<h3>Encontro 15/01/2022</h3>
+<h3>Encontro 22/01/2022</h3>
 
 - Fizemos o exercicio Recursion
 - E como sugestão para o próximo encontro, teremos um resumão dos 3 capitulos mais os exercicios. 
