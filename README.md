@@ -29,7 +29,7 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 - [x] Semana #01 
 - [x] Semana #02
-- [ ] Semana #03
+- [x] Semana #03
 - [ ] Semana #04
 
 ## :books: Material que iremos utilizar:
@@ -41,7 +41,13 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 ### :desktop_computer: Resumo do encontro:
 
-<p>Encontro 08/01/2022</p>
+<h3>Encontro 08/01/2022</h3>
+
+- Dididimos como será o nosso grupo de estudo
+- Teremos um livro base, onde estudaremos os capítulos durante a semana e no sábado vamos discutir sobre.
+- E também vamos trazer alguns exercícios do URI.
+
+<h3>Estudo da semana</h3>
 
 Estudar os 3 primeiros capítulos do livro:
 1. Valores, Tipos e Operadores  
@@ -56,13 +62,18 @@ Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou teleg
 
 ### :desktop_computer: Resumo do encontro:
 
-<p>Encontro 15/01/2022</p>
+<h3>Encontro 15/01/2022</h3>
+
+- Fizemos o exercicio FizzBuzz
+- E não conseguimos seguir com o capitulo 3. Por isso pro próximo encontro estudaremos somente o cap 03 (funções)
+
+<h3>Estudo da semana</h3>
 
 Estudar o capítulo 3. do livro:
 
 3. Funções
 
-Trazer as dúvidas para o próximo encontro 22/01/2022
+Trazer as dúvidas para o próximo encontro <strong>22/01/2022</strong>
 
 <h3>Material de apoio:</h3>
 
@@ -80,4 +91,36 @@ Trazer as dúvidas para o próximo encontro 22/01/2022
 
 1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 - 1001, 1002, 1003, 1004, 1005
+
+## :woman_technologist: Semana #03
+
+### :desktop_computer: Resumo do encontro:
+
+<h3>Encontro 15/01/2022</h3>
+
+- Fizemos o exercicio Recursion
+- E como sugestão para o nosso 4. encontro, teremos um resumão dos 3 capitulos mais os exercicios. 
+
+<h3>Estudo da semana</h3>
+
+Resumo dos 3. capitulos
+
+1. Valores, Tipos e Operadores
+2. Estrutura do Programa
+3. Funções
+
+Mais os exercícios, em especial o dia capitulo 3. Funções: <strong>Contando feijões</strong>
+
+Trazer as dúvidas para o próximo encontro <strong>29/01/2022</strong>
+
+<h3>Material de apoio:</h3>
+
+- Tudo o que já vimos
+
+
+<h3> Exercício extra </h3>
+
+1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
+- 1019, 1020
+
 
