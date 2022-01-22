@@ -27,17 +27,17 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 ## :heavy_check_mark: Features - Parte 1: Linguagem
 
-- [x] Semana #01 
-- [x] Semana #02
-- [x] Semana #03
-- [ ] Semana #04
+- [x] [Semana #00](#woman_technologist-semana-00)
+- [x] [Semana #01](#woman_technologist-semana-01)
+- [x] [Semana #02](#woman_technologist-semana-02)
+- [ ] Semana #03
 
 ## :books: Material que iremos utilizar:
 
 - URI - https://www.beecrowd.com.br/judge/pt/
 
 - Livro - https://github.com/braziljs/eloquente-javascript
-## :woman_technologist: Semana #01
+## :woman_technologist: Semana #00
 
 ### :desktop_computer: Resumo do encontro:
 
@@ -58,7 +58,7 @@ E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
 
-## :woman_technologist: Semana #02
+## :woman_technologist: Semana #01
 
 ### :desktop_computer: Resumo do encontro:
 
@@ -92,14 +92,14 @@ Trazer as dúvidas para o próximo encontro <strong>22/01/2022</strong>
 1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 - 1001, 1002, 1003, 1004, 1005
 
-## :woman_technologist: Semana #03
+## :woman_technologist: Semana #02
 
 ### :desktop_computer: Resumo do encontro:
 
 <h3>Encontro 15/01/2022</h3>
 
 - Fizemos o exercicio Recursion
-- E como sugestão para o nosso 4. encontro, teremos um resumão dos 3 capitulos mais os exercicios. 
+- E como sugestão para o próximo encontro, teremos um resumão dos 3 capitulos mais os exercicios. 
 
 <h3>Estudo da semana</h3>
 
