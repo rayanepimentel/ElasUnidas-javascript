@@ -20,10 +20,20 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
-## Pré-requisitos:
+## :pushpin: Pré-requisitos:
 - Editor de código (vs code, atom...)
 - Tentar participar dos encontros online aos sábados
 - Realizar a leitura e o exercício da semana
+
+## :gear: Como funciona
+Nos encontros será visto o que decidimos na semana anterior e decidiremos o que vamos estudar para a próxima semana.<br><br>
+Ex: Semana 00 (08/01) dicidimos o que vamos estudar até o próximo sábado (15/01) que chamaremos de semana 01.<br>
+Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no final decidiremos o que vamos estudar até o próximo sábado que será a nossa semana 02.
+
+#### :alarm_clock: Quando e como será os encontros?
+- Serão aos sábados dás 15h até 16h
+- Será pelo meet
+- Não terá gravação
 
 ## :heavy_check_mark: Features - Parte 1: Linguagem
 
