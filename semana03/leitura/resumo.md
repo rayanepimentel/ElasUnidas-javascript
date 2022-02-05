@@ -105,3 +105,6 @@ console.log(price) //4.50
 Mais exemplos:
 
 ![number](../img/numeros-int-float.png)
+
+Nesses exemplos da imagem, eu utilizei o comando prompt do javascript.<br>
+Basicamente exibe uma caixa de diálogo(como se fosse um alert) com uma mensagem opcional solicitando ao usuário a entrada de algum texto.
