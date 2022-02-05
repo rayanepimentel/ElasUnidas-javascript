@@ -20,28 +20,44 @@ Esse é o nosso projeto de estudo remoto piloto.
 
 <h3>Lets <strong>Go!!!</strong></h3>
 
-## Pré-requisitos:
+## :pushpin: Pré-requisitos:
 - Editor de código (vs code, atom...)
 - Tentar participar dos encontros online aos sábados
 - Realizar a leitura e o exercício da semana
 
+## :gear: Como funciona
+Nos encontros será visto o que decidimos na semana anterior e decidiremos o que vamos estudar para a próxima semana.<br><br>
+Ex: Semana 00 (08/01) dicidimos o que vamos estudar até o próximo sábado (15/01) que chamaremos de semana 01.<br>
+Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no final decidiremos o que vamos estudar até o próximo sábado que será a nossa semana 02.
+
+#### :alarm_clock: Quando e como será os encontros?
+- Serão aos sábados dás 15h até 16h
+- Será pelo meet
+- Não terá gravação
+
 ## :heavy_check_mark: Features - Parte 1: Linguagem
 
-- [x] Semana #01 
-- [x] Semana #02
+- [x] [Semana #00](#woman_technologist-semana-00)
+- [x] [Semana #01](#woman_technologist-semana-01)
+- [x] [Semana #02](#woman_technologist-semana-02)
 - [ ] Semana #03
-- [ ] Semana #04
 
 ## :books: Material que iremos utilizar:
 
 - URI - https://www.beecrowd.com.br/judge/pt/
 
 - Livro - https://github.com/braziljs/eloquente-javascript
-## :woman_technologist: Semana #01
+## :woman_technologist: Semana #00
 
 ### :desktop_computer: Resumo do encontro:
 
-<p>Encontro 08/01/2022</p>
+<h3>Encontro 08/01/2022</h3>
+
+- Dididimos como será o nosso grupo de estudo
+- Teremos um livro base, onde estudaremos os capítulos durante a semana e no sábado vamos discutir sobre.
+- E também vamos trazer alguns exercícios do URI.
+
+<h3>Estudo da semana</h3>
 
 Estudar os 3 primeiros capítulos do livro:
 1. Valores, Tipos e Operadores  
@@ -52,17 +68,22 @@ E trazer dúvidas para o próximo encontro: <strong>15/01/2022</strong>
 
 Também podemos tirar dúvidas durante a semana pelo grupos de whatsapp ou telegram.
 
-## :woman_technologist: Semana #02
+## :woman_technologist: Semana #01
 
 ### :desktop_computer: Resumo do encontro:
 
-<p>Encontro 15/01/2022</p>
+<h3>Encontro 15/01/2022</h3>
+
+- Fizemos o exercicio FizzBuzz
+- E não conseguimos seguir com o capitulo 3. Por isso pro próximo encontro estudaremos somente o cap 03 (funções)
+
+<h3>Estudo da semana</h3>
 
 Estudar o capítulo 3. do livro:
 
 3. Funções
 
-Trazer as dúvidas para o próximo encontro 22/01/2022
+Trazer as dúvidas para o próximo encontro <strong>22/01/2022</strong>
 
 <h3>Material de apoio:</h3>
 
@@ -80,4 +101,36 @@ Trazer as dúvidas para o próximo encontro 22/01/2022
 
 1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 - 1001, 1002, 1003, 1004, 1005
+
+## :woman_technologist: Semana #02
+
+### :desktop_computer: Resumo do encontro:
+
+<h3>Encontro 22/01/2022</h3>
+
+- Fizemos o exercicio Recursion
+- E como sugestão para o próximo encontro, teremos um resumão dos 3 capitulos mais os exercicios. 
+
+<h3>Estudo da semana</h3>
+
+Resumo dos 3. capitulos
+
+1. Valores, Tipos e Operadores
+2. Estrutura do Programa
+3. Funções
+
+Mais os exercícios, em especial o dia capitulo 3. Funções: <strong>Contando feijões</strong>
+
+Trazer as dúvidas para o próximo encontro <strong>29/01/2022</strong>
+
+<h3>Material de apoio:</h3>
+
+- Tudo o que já vimos
+
+
+<h3> Exercício extra </h3>
+
+1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
+- 1019, 1020
+
 
