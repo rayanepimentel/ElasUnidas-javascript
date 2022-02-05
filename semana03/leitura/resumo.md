@@ -51,7 +51,33 @@ Ou seja, const é imutável. O valor que atribuímos a ela, sempre será o mesmo
 
 Tudo o que escrevemos em javascript é um tipo de dado: ex: 13, 'olá', True;<br>
 
-**Number**: variável tipada com número, sem "aspas". <br>
+#### string
+É uma sequência de zero ou mais caracteres escritos entre aspas.<br> 
+```js
+let mensagem = "Olá mundo!";
+```
+Pode ser entre aspas simples 'exe' ou duplas "exe".
+- Para sabermos o tamanho de uma string, utilizamos a propriedade length;
+- O indexOf(), retorna o primeiro índice em que o elemento pode ser encontrado.
+```js
+let cat = "Frajola"
+cat.indexOf("a") //vai nos retornar onde esta o primeiro a
+//2
+```
+O retorno nesse exemplo será 2<br> Em Javascrit o primeiro indice será 0, o segundo 1, o terceiro 2 ...<br>
+O indexOf também diferencia maiúsculas de minúsculas. 
+
+```js
+let cat = "FrAjola"
+cat.indexOf("a") //vai nos retornar onde esta o primeiro a
+//6
+```
+
+![string-metodos](../img/string.metodos.png) 
+
+
+#### Number
+É uma variável tipada com número, sem "aspas". <br>
 
 ```javascript
 let num = 13;
@@ -76,7 +102,7 @@ console.log(myNumber); // 100
 Ou seja, ao utilizarmos parseInt() estamos dizendo que qualquer número após a casa decimal, não será considerado, será descartado<br>
 E para sempre recebermos sempre um float, utilizamos o **parseFloat()**<br>
 
-#### Quando usar float ou int ?<br>
+##### Quando usar float ou int ?<br>
 Ex: Temos um programa que pergunta a idade da pessoa<br>
 
 ```js
