@@ -76,28 +76,32 @@ console.log(myNumber); // 100
 Ou seja, ao utilizarmos parseInt() estamos dizendo que qualquer número após a casa decimal, não será considerado, será descartado<br>
 E para sempre recebermos sempre um float, utilizamos o **parseFloat()**<br>
 
-Quando usar float ou int ?<br>
-Ex: Temos uma programa que pergunta a idade da pessoa<br>
+#### Quando usar float ou int ?<br>
+Ex: Temos um programa que pergunta a idade da pessoa<br>
 
 ```js
-let age = "Informe a sua idade, por favor?";
+let age = "Informe a sua idade, por favor?"; //18
+console.log(age) // "18"
 ```
 Se não colocarmos o parseInt ou float, será retornado uma string.<br>
-Como precisamos que age sera number, precismos passar uns dos dois, nesse caso queremos a idade fechada, sem os meses.<br>
+Como precisamos que age seja number, precismos passar uns dos dois(int/float), nesse caso queremos a idade fechada, sem os meses.<br>
 Ou seja, será **int**.
 ```js
-let age = parseInt("Informe a sua idade, por favor?"); 
+let age = parseInt("Informe a sua idade, por favor?"); //18.6
+console.log(age) // 18
 ```
 
-Agora digamos que estamos em uma loja, e precisamos saber o valor de um produto.<br>
+Agora digamos que estamos em uma loja e precisamos saber o valor de um produto.<br>
 
 ```js
-let price = "Olá, quanto custa esse chocolate? ";
+let price = "Olá, quanto custa esse chocolate? "; // 4.50
 ```
 Como o preço pode ter decimais, nesse caso usariamos o float.
 ```js
-let price = parseFloat("Olá, quanto custa esse chocolate? "); 
+let price = parseFloat("Olá, quanto custa esse chocolate? "); //4.50
+console.log(price) //4.50
 ```
 
-[number](/img/numeros-int-float.png)
+Mais exemplos:
 
+![number](../img/numeros-int-float.png)
