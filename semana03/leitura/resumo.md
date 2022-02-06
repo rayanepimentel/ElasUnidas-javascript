@@ -51,7 +51,7 @@ Ou seja, const é imutável. O valor que atribuímos a ela, sempre será o mesmo
 
 Tudo o que escrevemos em javascript é um tipo de dado: ex: 13, 'olá', True;<br>
 
-#### string
+### string
 É uma sequência de zero ou mais caracteres escritos entre aspas.<br> 
 ```js
 let mensagem = "Olá mundo!";
@@ -76,7 +76,7 @@ cat.indexOf("a") //vai nos retornar onde esta o primeiro a
 ![string-metodos](../img/string.metodos.png) 
 
 
-#### Number
+### Number
 É uma variável tipada com número, sem "aspas". <br>
 
 ```javascript
@@ -102,7 +102,7 @@ console.log(myNumber); // 100
 Ou seja, ao utilizarmos parseInt() estamos dizendo que qualquer número após a casa decimal, não será considerado, será descartado<br>
 E para sempre recebermos sempre um float, utilizamos o **parseFloat()**<br>
 
-##### Quando usar float ou int ?<br>
+#### Quando usar float ou int ?<br>
 Ex: Temos um programa que pergunta a idade da pessoa<br>
 
 ```js
@@ -134,3 +134,58 @@ Mais exemplos:
 
 Nesses exemplos da imagem, eu utilizei o comando prompt do javascript.<br>
 Basicamente exibe uma caixa de diálogo(como se fosse um alert) com uma mensagem opcional solicitando ao usuário a entrada de algum texto.
+
+### Booleans
+(Comparação) Retorna se o valor é true(verdadeiro) ou false(falso). <br>
+Ex: 
+```js
+10 > 9 // true  
+13 == 10 // false
+```
+### Operadores
+
+![Operadores](../img/operadores.jpg)
+
+### Operadores lógicos
+
+O javascript suporta 3 operadores lógicos, que são aplicadas ao valores booleanos. <br>
+São: &&  || ! ou AND, OR ou NOT (e, ou, não)<br>
+
+- Operado **&&** o valor é true, se ambos os dados passado para ele foram true;
+
+Ex: Temos um concurso para participar de curso. E para isso é preciso ter 18 anos ou mais e(&&) morar em SP<br>
+
+```js
+se idade >= 18 && cidade == "São Paulo"
+  retorna "Maravilha, você pode participar";
+Senão
+  retorna "Infelizmente você não tem todos os critérios :(";
+```
+Digamos que Ana, tem 20 anos e mora em São Paulo, nesse caso o retorno será: Maravilha, você pode participar.<br>
+Já que Ana possui os dois critérios.
+
+
+- Operado **OR** o valor é true, se uns dos dados fornecido for true;
+
+Utilizando o mesmo exemplo, para participar do curso precisa ter 18 anos ou mais ou(||) morar em São Paulo.<br>
+
+```js
+se idade >= 18 || cidade == "São Paulo"
+  retorna "Maravilha, você pode participar";
+Senão
+  retorna "Infelizmente você não tem todos os critérios :(";
+```
+
+Nossa outra candidata, Teresa tem 35 anos e mora em São Luiz do Maranhão.<br>
+Nesse caso o retorno será true, já que ela tem uns dos critérios (+18 anos).
+
+- Operador **!** inverte o valor dado a ele - !true retorna false e !false retorna true.<br><br>
+
+```js
+let tempo = "calor"
+let tempoAgora = "calor";
+let comparando = tempo == tempoAgora;
+console.log(comparando); // true
+console.log(!comparando); // false
+```
+
