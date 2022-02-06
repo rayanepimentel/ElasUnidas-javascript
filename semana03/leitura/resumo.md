@@ -189,3 +189,36 @@ console.log(comparando); // true
 console.log(!comparando); // false
 ```
 
+## if... else
+
+Definição Developer Mozila:<br>
+"A condicional if é uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else."<br>
+<br>
+Exemplo:<br>
+Tá frio? Se sim, preciso de casaco. Senão, preciso de roupas leves.<br>
+<br>
+Com if..else
+
+```js
+let tempoFrio = true;
+
+if(tempoFrio == true) {
+ return "Preciso de casaco";
+}else{
+ return "Preciso de roupas leves";
+}
+// o retorno será "Preciso de casaco", mas se o tempoFrio for false, o retorno será "preciso de roupas leves"
+```
+
+Agora vamos fazer o exemplo do curso que utilizmos lá em "operadores lógicos"<br>
+Temos outra canditada, a Helena que tem 30 anos e mora em Salvador.<br>
+Lembrando que para participar do curso precisa ter >= 18 ou morar em São Paulo.<br>
+
+```js
+if(idade >= 18 || cidade == "São Paulo"){
+  return "Maravilha, você pode participar";
+}else{
+  return "Infelizmente você não tem todos os critérios :(";
+}
+//"Maravilha, você pode participar"
+```
