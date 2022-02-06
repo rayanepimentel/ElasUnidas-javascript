@@ -40,7 +40,7 @@ Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no fin
 - [x] [Semana #00](#woman_technologist-semana-00)
 - [x] [Semana #01](#woman_technologist-semana-01)
 - [x] [Semana #02](#woman_technologist-semana-02)
-- [ ] Semana #03
+- [x] [Semana #03](#woman_technologist-semana-03)
 
 ## :books: Material que iremos utilizar:
 
@@ -132,5 +132,31 @@ Trazer as dúvidas para o próximo encontro <strong>29/01/2022</strong>
 
 1. [URI - Iniciante](https://www.beecrowd.com.br/judge/pt/problems/index/1)
 - 1019, 1020
+
+## :woman_technologist: Semana #03
+
+### :desktop_computer: Resumo do encontro:
+
+<h3>Encontro 05/02/2022</h3>
+
+-  Fizemos o resumo de: tipos de dados, operadores, if else e function
+-  Não deu tempo de revisar laços de repetição e fazer o exercício "contando feijões" do capítulo 03
+-  vou deixar a solução aqui com todo o passo a passo. (em breve)
+
+<h3>Estudo da semana</h3>
+
+4. Estrutura de dados: Objetos e Array
+
+Trazer as dúvidas para o próximo encontro <strong>12/02/2022</strong>
+
+<h3>Material de apoio:</h3>
+
+- Em breve
+
+
+<h3> Exercício extra </h3>
+
+1. Em breve
+
 
 
