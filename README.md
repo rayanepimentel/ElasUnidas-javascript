@@ -47,6 +47,9 @@ Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no fin
 - URI - https://www.beecrowd.com.br/judge/pt/
 
 - Livro - https://github.com/braziljs/eloquente-javascript
+
+- Todo material ficará aqui no github e no [gitbook aqui](https://rayane-pimentel.gitbook.io/elasunidas-javascript/)
+
 ## :woman_technologist: Semana #00
 
 ### :desktop_computer: Resumo do encontro:
