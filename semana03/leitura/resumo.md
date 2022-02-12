@@ -189,7 +189,10 @@ console.log(comparando); // true
 console.log(!comparando); // false
 ```
 
-## if... else
+## Condicionais
+
+Usamos para verificar uma condição e definir se algo deve ou não acontecer a partir da condição dada.
+### if / else
 
 Definição Developer Mozila:<br>
 "A condicional if é uma estrutura condicional que executa a afirmação, dentro do bloco, se determinada condição for verdadeira. Se for falsa, executa as afirmações dentro de else."<br>
@@ -221,4 +224,20 @@ if(idade >= 18 || cidade == "São Paulo"){
   return "Infelizmente você não tem todos os critérios :(";
 }
 //"Maravilha, você pode participar"
+```
+
+### if / else if / else
+
+É quando temos mais de duas condições<br>
+
+```js
+let horario = "manhã"
+
+for(horario == "manhã") {
+  return "Bom dia"
+}else if(horario == "tarde") {
+  return "Boa tarde"
+}else{
+  return "Boa noite"
+}
 ```
