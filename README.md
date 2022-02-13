@@ -41,6 +41,7 @@ Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no fin
 - [x] [Semana #01](#woman_technologist-semana-01)
 - [x] [Semana #02](#woman_technologist-semana-02)
 - [x] [Semana #03](#woman_technologist-semana-03)
+- [x] [Semana #04](#woman_technologist-semana-04)
 
 ## :books: Material que iremos utilizar:
 
@@ -160,6 +161,35 @@ Trazer as dúvidas para o próximo encontro <strong>12/02/2022</strong>
 <h3> Exercício extra </h3>
 
 1. Em breve
+
+
+## :woman_technologist: Semana #04
+
+### :desktop_computer: Resumo do encontro:
+
+<h3>Encontro 11/02/2022</h3>
+
+-  Fizemos o resumo de laços de repetições e function
+-  Realizamos o exercício "contando feijões" do capítulo 03
+- Vimos array e fizemos o exercício "Tem fruta?" do nosso [gitbook](https://rayane-pimentel.gitbook.io/elasunidas-javascript/array/exercicio)
+
+<h3>Estudo da semana</h3>
+
+4. Estrutura de dados: Objetos e Array
+
+- mais o exercício "Invertendo um array" do livro "Eloquente Javascript"
+
+Trazer as dúvidas para o próximo encontro <strong>20/02/2022</strong>
+
+<h3>Material de apoio:</h3>
+
+- Em breve
+
+
+<h3> Exercício extra </h3>
+
+1. Em breve
+
 
 
 
