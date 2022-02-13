@@ -169,7 +169,7 @@ Trazer as dúvidas para o próximo encontro <strong>12/02/2022</strong>
 
 <h3>Encontro 11/02/2022</h3>
 
--  Fizemos o resumo de laços de repetições e function
+-  Fizemos o resumo de laços de repetição e function
 -  Realizamos o exercício "contando feijões" do capítulo 03
 - Vimos array e fizemos o exercício "Tem fruta?" do nosso [gitbook](https://rayane-pimentel.gitbook.io/elasunidas-javascript/array/exercicio)
 
