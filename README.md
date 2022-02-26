@@ -188,9 +188,9 @@ Trazer as dúvidas para o próximo encontro <strong>26/02/2022</strong>
 
 ### :desktop_computer: Resumo do encontro:
 
-<h3>Encontro 12/02/2022</h3>
+<h3>Encontro 26/02/2022</h3>
 
--  Analisamos material de estudo
+-  Analisamos o material de estudo
 -  Resolvemos encerrar o estudo com o livro <code>Eloquente Javascript</code>
 -  Durante os próximos 30 dias vamos participar do desafio <code>30 Days of Code</code> da [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 
