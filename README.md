@@ -42,6 +42,7 @@ Na semana 01 (15/01) faremos uma revisão do que vimos durante a semana e no fin
 - [x] [Semana #02](#woman_technologist-semana-02)
 - [x] [Semana #03](#woman_technologist-semana-03)
 - [x] [Semana #04](#woman_technologist-semana-04)
+- [x] [Semana #05](#woman_technologist-semana-05)
 
 ## :books: Material que iremos utilizar:
 
@@ -167,7 +168,7 @@ Trazer as dúvidas para o próximo encontro <strong>12/02/2022</strong>
 
 ### :desktop_computer: Resumo do encontro:
 
-<h3>Encontro 11/02/2022</h3>
+<h3>Encontro 12/02/2022</h3>
 
 -  Fizemos o resumo de laços de repetição e function
 -  Realizamos o exercício "contando feijões" do capítulo 03
@@ -179,17 +180,27 @@ Trazer as dúvidas para o próximo encontro <strong>12/02/2022</strong>
 
 - mais o exercício "Invertendo um array" do livro "Eloquente Javascript"
 
-Trazer as dúvidas para o próximo encontro <strong>20/02/2022</strong>
-
-<h3>Material de apoio:</h3>
-
-- Em breve
+Trazer as dúvidas para o próximo encontro <strong>26/02/2022</strong>
 
 
-<h3> Exercício extra </h3>
 
-1. Em breve
+## :woman_technologist: Semana #05
 
+### :desktop_computer: Resumo do encontro:
+
+<h3>Encontro 12/02/2022</h3>
+
+-  Analisamos material de estudo
+-  Resolvemos encerrar o estudo com o livro <code>Eloquente Javascript</code>
+-  Durante os próximos 30 dias vamos participar do desafio <code>30 Days of Code</code> da [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+
+<h3>Estudo da semana</h3>
+
+- Realizar os exercícios **00 - Hello Word até 06 Let's Review** do [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
+
+Trazer as dúvidas para o próximo encontro <strong>05/03/2022</strong>
 
 
 
